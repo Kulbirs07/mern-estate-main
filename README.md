@@ -34,8 +34,19 @@
 **MERN Estate** is a sophisticated full-stack web application developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack. <br/>It serves as a comprehensive platform tailored for real estate enthusiasts, providing them with intuitive tools to seamlessly `browse, list, and engage` with various real estate listings.
 
 ## Screenshot :
+![1](https://github.com/user-attachments/assets/aab716c0-9665-4139-bca8-441b1b0![2](https://github.com/user-attachments/assets/a17dc0cd-2dab-4da6-96fc-fae82ce48a1c)
+9644f)
+![2](https://github.com/user-attachments/assets/26a1e6bc-f40a-447d-948e-af19dc56bbc6)
 
-(Loading...)
+![3](https://github.com/user-attachments/assets/f36e9c05-ab3e-41b1-999c-f1baac47dfaf)
+
+![4](https://github.com/user-attachments/assets/df96b19c-a13d-4483-9fe0-7f3e8e8f0b3b)
+![5](https://github.com/user-attachments/assets/fade1f75-21a0-4fb1-8a14-7d0130947a47)
+![6](https://github.com/user-attachments/assets/293c6efd-2556-4d1c-81a2-79387767349b)
+![7](https://github.com/user-attachments/assets/89f1c5ea-2e91-40f5-aa98-fb0aa1ec59ac)
+
+
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
